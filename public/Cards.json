@@ -1,0 +1,75 @@
+[
+    {
+        "id" : 1,
+      "title": "Introduction to C programmimng",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230630120259/C-Language-Introduction.png",
+      "description": "C is one the popular programmimng launguage, C strongly associates with UNIX, as it was developed to write the UNIX operating system.",
+      "price": 12000,
+      "credit_hours": 1
+    },
+    {
+        "id" : 2,
+      "title": "Introduction to algorithm",
+      "image": "https://www.investopedia.com/thmb/J33BG-Cf03bW8-O4kXJfuht3gHA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/algorithm-df9b57e8ea7c494b891da25987643fab.jpg",
+      "description": "A process or set of rules to be followed in calculations or other problem-solving operation.especially by a computer.",
+      "price": 25000,
+      "credit_hours": 2
+    },
+    {
+        "id" : 3,
+      "title": "Introduction to C++ for DSA",
+      "image": "https://www.softwaretestinghelp.com/wp-content/qa/uploads/2019/06/Introduction-to-Data-Structures-in-C-1.png",
+      "description": "Using DSA you can solve complex problems without any hustle, it tells you to choose algorithms based on the programs need",
+      "price": 15000,
+      "credit_hours": 10
+    },
+    {
+        "id" : 4,
+      "title": "Data Structure",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQJrjueX6rC_tbxn2vkIqfTT0kO4mZiRICkg&s",
+      "description": "A specific way of organizing data ina specialized format on a computer so that the information can be orgganized quickly and effectivly",
+      "price": 35000,
+      "credit_hours": 5
+    },
+    {
+        "id" : 5,
+      "title": "Introduction to OOP Python",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnzs1h7NneCoLSxBbmysDn4df6S5R3p8JoIA&s",
+      "description": "Object-oriented programming (OOP) is a method of structuring a program by bundling related properties and behaviors into individual objects.",
+      "price": 23000,
+      "credit_hours": 5
+    },
+    {
+        "id" : 6,
+      "title": "AWS Cloud Computing",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xQcwKitRgXfqdi34DYlocPSEXD2G2zZipg&s",
+      "description": "Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. .",
+      "price": 19000,
+      "credit_hours": 7
+    },
+    {
+        "id" : 7,
+      "title": "Software Engineering",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmykgLA4HRPLIWbLx8H6OQNZwEfnuxhc_gwg&s",
+      "description": "the branch of computer science that deals with the design, development, testing, and maintenance of software applications.",
+      "price": 20000,
+      "credit_hours": 2
+    },
+    {
+        "id" : 8,
+      "title": "Database MySQL",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRRs0Ao7_mRiweh-W9IWX47UzFZ2RTDyRfjg&s",
+      "description": "MySQL Cluster enables users to meet the database challenges of next generation web.",
+      "price": 19000,
+      "credit_hours": 5
+    },
+    {
+        "id" : 9,
+      "title": "Problem solving part",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm4RRXx6l1epp_pa2RSRYN9LcqMpyR0dbqwA&s",
+      "description": "the act of defining a problem; determining the cause of the problem.",
+      "price": 23000,
+      "credit_hours": 2
+    }
+  ]
+  
